@@ -1,0 +1,9 @@
+nltk==3.5
+uvicorn==0.11.5
+beautifulsoup4==4.9.3
+bs4==0.0.1
+fastapi==0.58.1
+thinc==8.0.2
+requests==2.24.0
+pydantic==1.7.4
+facebook-scraper==0.2.45
